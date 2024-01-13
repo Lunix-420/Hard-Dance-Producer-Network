@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the my private repository for the Hard Dance Producer Network. This repository serves as a backup space for sharing scripts, tools, and resources I made for the network.
+Welcome to the my private repository for Discord server of the Hard Dance Producer Network. This repository serves as a backup space for sharing scripts, tools, and resources of the network.
 
 ## Community Details
 
