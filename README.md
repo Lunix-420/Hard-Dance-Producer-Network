@@ -2,15 +2,11 @@
 
 ## Overview
 
-Welcome to the my private repository for the Hard Dance Producer Network, a community dedicated to bringing together passionate producers and enthusiasts in the realm of hard dance music. This repository serves as a backup space for sharing scripts, tools, and resources created by members of the network.
+Welcome to the my private repository for the Hard Dance Producer Network, a community dedicated to bringing together passionate producers and enthusiasts in the realm of hard dance music. This repository serves as a backup space for sharing scripts, tools, and resources I made for the network.
 
 ## Community Details
 
 - **Discord Server:** [HardDanceProducerNetwork](https://discord.gg/UytMWCzPDr)
-
-## About the Scripts
-
-This repository houses various scripts and tools developed by the community members, each contributing to the enhancement and automation of tasks related to hard dance music production. 
 
 ## Getting Involved
 
